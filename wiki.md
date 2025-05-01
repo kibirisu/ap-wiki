@@ -1,8 +1,8 @@
-Data flow in activity pub is using json-ld format. The format allow linking additional data.
-
 [Activity Vocabulary](https://www.w3.org/TR/activitystreams-vocabulary/)
 
 [ActivityStreams](https://www.w3.org/TR/activitystreams-core/)
+
+Data flow in activity pub is using json-ld format. The format allow linking additional data.
 
 [HTTP Signatures](https://datatracker.ietf.org/doc/html/draft-ietf-httpbis-message-signatures)
 
